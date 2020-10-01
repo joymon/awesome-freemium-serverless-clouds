@@ -12,10 +12,11 @@ The freemium services don't require a credit card to start and operate for perso
 | Name ⮫<br/>⮮Feature  | Heroku         |   Vercel   |  Netlify     | 
 |:-                     | -              | -          | -            |
 | NodeJS                | Yes            | Yes        | Yes          |
-| Go                    |                |            | Yes          |
+| Go                    | Yes            |            | Yes          |
+| Python                | Yes            |            |              |
 | Local development     |                |            | Yes          |
 |                           **Features**                          ||||
-| Http/2                |                | No         |              |
+| Http/2                | No             | No         |              |
 | WebSockets            |      Yes       | No         |              |
 |                       **Deployment limits**                     ||||
 | Function size         |                | 50MB       |              |
@@ -32,6 +33,8 @@ The freemium services don't require a credit card to start and operate for perso
 | Idle time             | 30 mins        |            |              |
 # Sources
 - [Heroku](https://devcenter.heroku.com/articles/limits)
+  - [Language Support](https://devcenter.heroku.com/categories/language-support)
+  - [Http/2](https://devcenter.heroku.com/articles/http-routing#http-versions-supported)
   - [WebSockets](https://devcenter.heroku.com/articles/websockets)
 - [Vercel](https://vercel.com/docs/platform/limits)
 - [Netlify](https://www.netlify.com/pricing/), [FAQ](https://www.netlify.com/pricing/faq/),[terms](https://www.netlify.com/tos/)
