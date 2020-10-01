@@ -45,3 +45,4 @@ Below are some list related but not filtered by true freemium. Some may require 
 
 - [https://github.com/anaibol/awesome-serverless](https://github.com/anaibol/awesome-serverless)
 - [https://github.com/agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
+- [https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
