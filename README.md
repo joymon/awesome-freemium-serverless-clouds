@@ -14,14 +14,14 @@ The freemium services don't require a credit card to start and operate for perso
 | NodeJS                | Yes            | Yes        | Yes          |
 | Go                    |                |            | Yes          |
 | Local development     |                |            | Yes          |
-| <td colspan=3>                         **Features**                |
+|                           **Features**                          ||||
 | Http/2                |                | No         |              |
 | WebSockets            |                | No         |              |
-| |                     **Deployment limits**                      |||
+|                       **Deployment limits**                     ||||
 | Function size         |                | 50MB       |              |
 | Build Time            | 1 at a time    | 32/hour    |300 Mins/month|
 | Deployments           |                | 100/day    |              |
-| |                     **Execution limits**                       |||
+|                      **Execution limits**                       ||||
 | Band width            |                |            |100GB/month   | 
 | Invocations           | 4500/hour      |            |125K/month    |          
 | Request size limit    |                | 5 MB       |              |
