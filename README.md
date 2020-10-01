@@ -16,7 +16,7 @@ The freemium services don't require a credit card to start and operate for perso
 | Local development     |                |            | Yes          |
 |                           **Features**                          ||||
 | Http/2                |                | No         |              |
-| WebSockets            |                | No         |              |
+| WebSockets            |      Yes       | No         |              |
 |                       **Deployment limits**                     ||||
 | Function size         |                | 50MB       |              |
 | Build Time            | 1 at a time    | 32/hour    |300 Mins/month|
@@ -32,6 +32,7 @@ The freemium services don't require a credit card to start and operate for perso
 | Idle time             | 30 mins        |            |              |
 # Sources
 - [Heroku](https://devcenter.heroku.com/articles/limits)
+  - [WebSockets](https://devcenter.heroku.com/articles/websockets)
 - [Vercel](https://vercel.com/docs/platform/limits)
 - [Netlify](https://www.netlify.com/pricing/), [FAQ](https://www.netlify.com/pricing/faq/),[terms](https://www.netlify.com/tos/)
 
