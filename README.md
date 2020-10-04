@@ -7,7 +7,7 @@ A curated list of true freemium serverless code execution cloud providers
 - May not have SLA and service may go down on reaching limits
 
 # What is true freemium?
-The freemium services don't require a credit card to start and operate for personal non-commercial uses. Whats the [issue with giving credit card](./issue-credit-card)?
+The freemium services don't require a credit card to start and operate for personal non-commercial uses. Whats the [issue with giving credit card](./issue-credit-card.md)?
 
 | Name ⮫<br/>⮮Feature  | Heroku         |   Vercel   |  Netlify     | 
 |:-                     | -              | -          | -            |
