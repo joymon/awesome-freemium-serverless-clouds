@@ -7,21 +7,21 @@ A curated list of true freemium serverless code execution cloud providers
 - May not have SLA and service may go down on reaching limits
 
 # What is true freemium?
-The freemium services don't require a credit card to start and operate for personal non-commercial uses. Whats the [issue with giving credit card](./issue-credit-card.md)?
+The freemium services don't require a credit card to start and operate for personal non-commercial uses. Whats the [issue with giving credit card](issue-credit-card)?
 
 | Name ⮫<br/>⮮Feature  | Heroku         |   Vercel   |  Netlify     | 
 |:-                     | -              | -          | -            |
 | NodeJS                | Yes            | Yes        | Yes          |
 | Go                    | Yes            |            | Yes          |
 | Python                | Yes            |            |              |
-| Local development     |                |            | Yes          |
+| Local development     | Yes            |            | Yes          |
 |                           **Features**                          ||||
 | Http/2                | No             | No         |              |
 | WebSockets            |      Yes       | No         |              |
 |                       **Deployment limits**                     ||||
-| Function size         |                | 50MB       |              |
+| Function size         | 500MB          | 50MB       |              |
 | Build Time            | 1 at a time    | 32/hour    |300 Mins/month|
-| Deployments           |                | 100/day    |              |
+| Deployments           | 1 at a time    | 100/day    |              |
 |                      **Execution limits**                       ||||
 | Band width            |                |            |100GB/month   | 
 | Invocations           | 4500/hour      |            |125K/month    |          
