@@ -41,7 +41,7 @@ The freemium services don't require a credit card to start and operate for perso
 
 # Tobe added
 
-- [https://www.back4app.com/](https://www.back4app.com/parse-pricing]
+- [https://www.back4app.com/](https://www.back4app.com/parse-pricing)
 
 # Earlier candidates
 - Firebase - They recently get rid of true freemium. Credit card is required
