@@ -9,6 +9,8 @@ A curated list of true freemium serverless code execution cloud providers
 # What is true freemium?
 The freemium services don't require a credit card to start and operate for personal non-commercial uses. Whats the [issue with giving credit card](issue-credit-card)?
 
+# Serverless functions
+
 | Name ⮫<br/>⮮Feature  | Heroku         |   Vercel   |  Netlify     | 
 |:-                     | -              | -          | -            |
 | NodeJS                | Yes            | Yes        | Yes          |
@@ -31,6 +33,17 @@ The freemium services don't require a credit card to start and operate for perso
 | Execution time        | 550 hrs/month  |            |              |
 | Request timeout       | 30 secs        | 10 secs    | 10 secs      |
 | Idle time             | 30 mins        |            |              |
+
+# Serverless data storage
+
+| Name ⮫<br/>⮮Feature   | Back4App       |   FaunaDB  |    
+|:-                     | -               | -          |
+| Storage               | 250 MB          | 5 GB       |             
+| Requests              | 10/s per app    |Reads&Writes|             
+| Reads                 | N/A             | 100K/day   |             
+| Writes                | N/A             | 50K/day    |             
+| Support APIs          | yes             | TBD        |             
+
 # Sources
 - [Heroku](https://devcenter.heroku.com/articles/limits)
   - [Language Support](https://devcenter.heroku.com/categories/language-support)
@@ -39,7 +52,7 @@ The freemium services don't require a credit card to start and operate for perso
 - [Vercel](https://vercel.com/docs/platform/limits)
 - [Netlify](https://www.netlify.com/pricing/), [FAQ](https://www.netlify.com/pricing/faq/),[terms](https://www.netlify.com/tos/)
 
-# Tobe evaluated
+# To be evaluated
 
 - [https://www.back4app.com/](https://www.back4app.com/parse-pricing)
 - Alibaba Function Compute 
