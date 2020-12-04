@@ -14,8 +14,8 @@ The freemium services don't require a credit card to start and operate for perso
 | Name ⮫<br/>⮮Feature  | Heroku         |   Vercel   |  Netlify     | 
 |:-                     | -              | -          | -            |
 | NodeJS                | Yes            | Yes        | Yes          |
-| Go                    | Yes            |            | Yes          |
-| Python                | Yes            |            |              |
+| Go                    | Yes            | Yes        | Yes          |
+| Python                | Yes            | Yes        |              |
 | Local development     | Yes            |            | Yes          |
 |                           **Features**                          ||||
 | Http/2                | No             | No         |              |
