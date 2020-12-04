@@ -15,7 +15,7 @@ The freemium services don't require a credit card to start and operate for perso
 |:-                     | -              | -          | -            |
 | NodeJS                | Yes            | Yes        | Yes          |
 | Go                    | Yes            | Yes        | Yes          |
-| Python                | Yes            | Yes        |              |
+| Python                | Yes            | Yes        | No           |
 | Local development     | Yes            |            | Yes          |
 |                           **Features**                          ||||
 | Http/2                | No             | No         |              |
@@ -52,6 +52,7 @@ The freemium services don't require a credit card to start and operate for perso
 - [Vercel](https://vercel.com/docs/platform/limits)
   - [Runtimes](https://vercel.com/docs/runtimes)
 - [Netlify](https://www.netlify.com/pricing/), [FAQ](https://www.netlify.com/pricing/faq/),[terms](https://www.netlify.com/tos/)
+  - [Functions](https://www.netlify.com/products/functions/)
 
 # To be evaluated
 
