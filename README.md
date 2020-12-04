@@ -50,6 +50,7 @@ The freemium services don't require a credit card to start and operate for perso
   - [Http/2](https://devcenter.heroku.com/articles/http-routing#http-versions-supported)
   - [WebSockets](https://devcenter.heroku.com/articles/websockets)
 - [Vercel](https://vercel.com/docs/platform/limits)
+  - [Runtimes](https://vercel.com/docs/runtimes)
 - [Netlify](https://www.netlify.com/pricing/), [FAQ](https://www.netlify.com/pricing/faq/),[terms](https://www.netlify.com/tos/)
 
 # To be evaluated
