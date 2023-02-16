@@ -73,6 +73,7 @@ Below are some list related but not filtered by true freemium. Some may require 
 - [https://github.com/agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
 - [https://github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [https://blog.back4app.com/serverless-hosting-providers/](https://blog.back4app.com/serverless-hosting-providers/)
+- [https://blog.back4app.com/top-10-heroku-alternatives](https://blog.back4app.com/top-10-heroku-alternatives)
 
 # This list on the internet
 - [My blog post](https://joymonscode.blogspot.com/2020/10/awesome-true-freemium-serverless-clouds.html)
