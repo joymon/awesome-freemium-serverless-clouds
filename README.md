@@ -58,6 +58,7 @@ The freemium services don't require a credit card to start and operate for perso
 
 - [https://www.back4app.com/](https://www.back4app.com/parse-pricing)
 - Alibaba Function Compute 
+- [https://fly.io](https://fly.io/docs/about/pricing/)
 - [https://workers.cloudflare.com/](https://workers.cloudflare.com/)
   - 100,000 requests /day free
   - 10ms CPU execution time/request
